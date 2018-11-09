@@ -16,5 +16,5 @@ Members of  "6th Sense +"
 
 
 
-
+Please the follow the link below to read the medium post.
 https://medium.com/ai-saturdays-lagos-articles/sense-of-fashion-with-keras-bab5f2e8c3c7
